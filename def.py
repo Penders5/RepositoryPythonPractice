@@ -1,4 +1,8 @@
 def games():
+
+    #Print top 5 games
+    print("these are my top five video games")
+
     #print Top 5 Video Games
     print("Top 5 Video Games")
 
@@ -17,8 +21,41 @@ def games():
     #Print 5th Game
     print("5: Tom Clancy's Rainbow: Six Siege")
 
-#Print top 5 games
-print("these are my top five video games")
+#Define food
+def food():
+
+    #Print favorite foods
+    print("These are my favorite foods")
+
+    #Print 1st food
+    print("1: Buffalo Chicken Pizza")
+
+    #Print 2nd food
+    print("2: Biscuits and Gravy")
+
+    #Print 3rd food
+    print("3: Quesadilla with pepperoni, aka a pizza quesadilla")
+
+    #Print 4th food
+    print("4: Anything spicy")
+
+#Define baseball
+def baseball():
+
+    #Print favorite baseball team
+    print("My favorite baseball team is the Chicago Cubs")
+
+    #Print last time they won world series
+    print("The last time they won the world series was back in 2016")
+
+    #Print favorite players
+    print("My favorite players are; Baez, Russel, Happ, Contreras")
 
 #Run function games
 games()
+
+#Run function food
+food()
+
+#Run function baseball
+baseball()
