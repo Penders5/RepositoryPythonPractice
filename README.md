@@ -1,2 +1,2 @@
 # RepositoryPythonPractice
-Use this to practice coding in pytthon
+Use this to practice coding in python
